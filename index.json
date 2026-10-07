@@ -10,7 +10,7 @@
     "languages": ["all"],
     "nsfw": true,
     "icon": "https://sukebei.nyaa.si/static/favicon.png",
-    "update": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/index.json",
-    "code": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/sukebei.js"
+    "update": "https://raw.githubusercontent.com/lordm8/ext/main/index.json",
+    "code": "https://raw.githubusercontent.com/lordm8/ext/main/sukebei.js"
   }
 ]
