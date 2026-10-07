@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hayase.extension.sukebei-fixed",
+    "name": "Sukebei (fixed)",
+    "version": "2.0.0",
+    "type": "torrent",
+    "accuracy": "medium",
+    "ratio": 0,
+    "media": "both",
+    "languages": ["all"],
+    "nsfw": true,
+    "icon": "https://sukebei.nyaa.si/static/favicon.png",
+    "update": "https://raw.githubusercontent.com/YOUR_USER/ext/main/index.json",
+    "code": "https://raw.githubusercontent.com/YOUR_USER/ext/main/sukebei.js"
+  }
+]
